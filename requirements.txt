@@ -1,0 +1,6 @@
+vllm
+pandas
+numpy
+transformers
+torch
+tqdm

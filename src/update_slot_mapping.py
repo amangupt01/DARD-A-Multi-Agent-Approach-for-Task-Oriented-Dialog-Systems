@@ -1,0 +1,21 @@
+slot_name_mapping = {
+    'ADDRESS'   : ['address', 'attraction_address', 'hospital_address', 'hotel_address', 'police_address', 'restaurant_address', 'value_address', 'bookaddress'],
+    'AREA'      : ['area', 'value_area', 'attraction_area', 'restaurant_area', 'hotel_area', 'bookarea', 'theatre_area', 'bar_area'],
+    'TIME'      : ['booktime', 'value_time', 'time', 'duration', 'value_duration', 'train_duration', 'arriveby', 'taxi_arriveby', 'value_arrive', 'arrive by', 'train_arriveby', 'leaveat', 'value_leave', 'leave at', 'train_leaveat', 'train_leave', 'train_arrive', 'taxi_leaveat', 'restaurant_booktime', 'hotel_booktime'],
+    'DAY'       : ['day', 'value_day', 'bookday', 'train_day', 'restaurant_bookday', 'hotel_bookday'],
+    'PLACE'     : ['destination', 'value_destination', 'departure', 'value_departure', 'value_place', 'train_departure', 'train_destination', 'taxi_destination', 'taxi_departure'],
+    'FOOD'      : ['food', 'value_food', 'restaurant_food', 'hotel_food'],
+    'NAME'      : ['name', 'attraction_name', 'hospital_name', 'hotel_name', 'police_name', 'restaurant_name', 'value_name'],
+    'PHONE'     : ['phone', 'attraction_phone', 'hospital_phone', 'hotel_phone', 'police_phone', 'restaurant_phone', 'taxi_phone', 'value_phone'],
+    'POST'      : ['postcode', 'attraction_postcode', 'hospital_postcode', 'hotel_postcode', 'restaurant_postcode', 'value_postcode', 'police_postcode'],
+    'PRICE'     : ['price', 'value_price', 'entrancefee', 'entrance fee', 'train_price', 'attraction_entrancefee', 'pricerange', 'value_pricerange', 'price range', 'restaurant_pricerange', 'hotel_pricerange', 'attraction_pricerange', 'attraction_price', 'bookpricerange', 'attraction_fee'],
+    'REFERENCE' : ['ref', 'attraction_reference', 'hotel_reference', 'restaurant_reference', 'train_reference', 'value_reference', 'reference', 'train_ref', 'restaurant_ref', 'hotel_ref'],  
+    'COUNT'     : ['stars', 'value_stars', 'hotel_stars', 'bookstay', 'value_stay', 'stay', 'bookpeople', 'value_people', 'people', 'choice', 'value_choice', 'value_count', 'attraction_choice', 'hotel_choice', 'restaurant_choice', 'train_choice', 'train_bookpeople', 'hotel_bookpeople', 'restaurant_bookpeople', 'taxi_bookpeople', 'taxi_choice', 'theatre_choice', 'hotel_bookstay'],
+    'TYPE'      : ['type', 'taxi_type', 'taxi_car', 'value_type', 'value_car', 'car', 'restaurant_type', 'hotel_type', 'attraction_type'],
+    'TRAINID'   : ['trainid', 'train_id', 'value_id', 'id', 'train', 'train_trainid', 'train_name'],
+    'INTERNET'  : ['internet', 'hotel_internet'],
+    'PARKING'   : ['parking', 'hotel_parking'],
+    'ID'        : ['hospital_id', 'attraction_id', 'restaurant_id'],
+    'DEPARTMENT': ['value_department', 'department', 'hospital_department'],
+    'OPEN'      : ['openhours']
+}
